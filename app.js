@@ -5,7 +5,7 @@ const info_routes = require("./router/infoR");
 
 const PORT = process.env.PORT || 3000;
 
-app.get("/",(res,req) =>{
+app.get("/",(req,res) =>{
     res.send('hi server alive');
 });
 

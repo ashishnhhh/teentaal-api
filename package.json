@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "firebase": "^9.19.1",
+    "firebase-admin": "^11.6.0",
     "json-server": "^0.17.3",
     "nodemon": "^2.0.22",
     "registry.npmjs.org": "^1.0.1"
@@ -8,9 +10,12 @@
   "description": "",
   "version": "1.0.0",
   "main": "app.js",
+  
   "scripts": {
     "start": "node app.js",
+    
     "dev": "nodemon app.js"
+    
   },
   "repository": {
     "type": "git",
