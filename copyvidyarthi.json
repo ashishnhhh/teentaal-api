@@ -1,0 +1,29 @@
+{
+    "vidyarthiinfo":
+ [
+
+    {
+        "id" : "1",
+        "Disrict" : "Kolhapur",
+        "College Name" : "Shivaji Maharaj College",
+        "CollegeCodeID": "A121"
+    },
+   
+    {
+    "Id":"2",
+    "District":"Ahmednagar",
+    "College Name":"Maharaja Jivajirao Shinde Mahavidyalaya, Shrigonda",
+    "CollegeCodeID":"A2"
+   }, 
+ 
+
+   {
+    "Id" : "3",
+    "Disrict" : "Akola",
+    "College Name" : "Shri Dhabekar Kala Mahavidyalay, Khadki, Akola",
+    "CollegeCodeID":"A194"
+   }
+
+
+]
+}
