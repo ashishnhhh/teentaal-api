@@ -5,7 +5,7 @@ const connectDB = require("./db/connect")
 
 const info_routes = require("./router/infoR");
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 5000;
 
 app.get("/",(req,res) =>{
     res.send('hi server alive');
